@@ -2,6 +2,7 @@
 // CCC '18 J5 - Choose your own path
 // https://dmoj.ca/problem/ccc18j5
 //
+//
 
 #include <vector>
 #include <iostream>
